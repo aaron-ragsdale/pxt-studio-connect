@@ -1,0 +1,14 @@
+{
+  "name": "pxt-studio-connect",
+  "version": "0.0.1",
+  "description": "Studio Connect for Bluetooth UART",
+  "dependencies": {
+    "core": "*",
+    "bluetooth": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "public": true
+}
